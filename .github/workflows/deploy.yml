@@ -6,11 +6,21 @@ on:
     paths: ['photos/**', 'photos-manifest.json', 'thumbnails/**']
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  trigger-vercel:
+  redeploy-vercel:
     runs-on: ubuntu-latest
     steps:
-      - name: 触发画廊重新构建
-        run: curl -fsS -X POST "${{ secrets.GALLERY_DEPLOY_HOOK }}"
+      - name: 触发画廊重新构建（含最新照片）
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          PID=$(curl -s --max-time 20 "https://api.vercel.com/v9/projects/afilmory" \
+            -H "Authorization: Bearer $VERCEL_TOKEN" | python3 -c "import json,sys; print(json.load(sys.stdin)['id'])")
+          DID=$(curl -s --max-time 20 "https://api.vercel.com/v6/deployments?projectId=$PID&target=production&limit=1" \
+            -H "Authorization: Bearer $VERCEL_TOKEN" | python3 -c "import json,sys; print(json.load(sys.stdin)['deployments'][0]['uid'])")
+          echo "重部署目标: $DID"
+          curl -fsS --max-time 30 -X POST "https://api.vercel.com/v13/deployments" \
+            -H "Authorization: Bearer $VERCEL_TOKEN" -H "Content-Type: application/json" \
+            -d "{\"deploymentId\": \"$DID\", \"target\": \"production\"}"

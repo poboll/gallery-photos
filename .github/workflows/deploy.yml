@@ -1,0 +1,16 @@
+name: Deploy Gallery
+
+on:
+  push:
+    branches: [main]
+    paths: ['photos/**', 'photos-manifest.json', 'thumbnails/**']
+
+permissions:
+  contents: read
+
+jobs:
+  trigger-vercel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 触发画廊重新构建
+        run: curl -fsS -X POST "${{ secrets.GALLERY_DEPLOY_HOOK }}"

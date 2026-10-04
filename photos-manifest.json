@@ -1,0 +1,90 @@
+{
+  "version": "v10",
+  "data": [
+    {
+      "id": "IMG_2531",
+      "format": "HEIC",
+      "title": "IMG 2531",
+      "description": "",
+      "dateTaken": "2025-10-27T10:40:37.691Z",
+      "tags": [],
+      "originalUrl": "https://raw.githubusercontent.com/poboll/gallery-photos/main/photos/IMG_2531.HEIC",
+      "thumbnailUrl": "/thumbnails/IMG_2531.jpg",
+      "thumbHash": "21f8090500f95754490687c936749969cda09cafe7",
+      "width": 3024,
+      "height": 4032,
+      "aspectRatio": 0.75,
+      "s3Key": "IMG_2531.HEIC",
+      "lastModified": "2026-10-04T12:16:11.427Z",
+      "size": 918017,
+      "digest": "e02f196506742b049eb383dc99c1a44f30755ea361620171883618d5125c7a80",
+      "exif": {
+        "DateTimeOriginal": "2025-10-27T18:40:37.691+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 6,
+        "Make": "Apple",
+        "Model": "iPhone 13 Pro Max",
+        "Software": "18.7.1",
+        "ExposureTime": "1/50",
+        "FNumber": 1.5,
+        "ExposureProgram": "Program AE",
+        "ISO": 100,
+        "ShutterSpeedValue": "1/50",
+        "ApertureValue": 1.5,
+        "BrightnessValue": 2.676596863,
+        "ExposureCompensation": 0,
+        "Flash": "Off, Did not fire",
+        "FocalLength": "5.7 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "43 mm",
+        "LensMake": "Apple",
+        "LensModel": "iPhone 13 Pro Max back triple camera 5.7mm f/1.5",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "SensingMethod": "One-chip color area",
+        "Aperture": 1.5,
+        "ScaleFactor35efl": 7.5,
+        "ShutterSpeed": "1/50",
+        "LightValue": 6.8,
+        "GPSAltitude": 41.60585076,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 23.306583,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 113.562714,
+        "GPSLongitudeRef": "E"
+      },
+      "keywords": [],
+      "regions": [],
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 53,
+        "contrast": 47,
+        "shadowRatio": 0.21,
+        "highlightRatio": 0.31
+      },
+      "location": null,
+      "isHDR": false
+    }
+  ],
+  "cameras": [
+    {
+      "make": "Apple",
+      "model": "iPhone 13 Pro Max",
+      "displayName": "Apple iPhone 13 Pro Max"
+    }
+  ],
+  "lenses": [
+    {
+      "make": "Apple",
+      "model": "iPhone 13 Pro Max back triple camera 5.7mm f/1.5",
+      "displayName": "Apple iPhone 13 Pro Max back triple camera 5.7mm f/1.5"
+    }
+  ]
+}

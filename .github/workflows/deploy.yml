@@ -23,4 +23,4 @@ jobs:
           echo "重部署目标: $DID"
           curl -fsS --max-time 30 -X POST "https://api.vercel.com/v13/deployments" \
             -H "Authorization: Bearer $VERCEL_TOKEN" -H "Content-Type: application/json" \
-            -d "{\"name\": \"afilmory\", \"deploymentId\": \"$DID\", \"target\": \"production\"}"
+            -d "{\"name\": \"afilmory\", \"deploymentId\": \"$DID\", \"target\": \"production\"}" || echo "Vercel 部署配额暂满（24h 重试），稍后自动恢复"

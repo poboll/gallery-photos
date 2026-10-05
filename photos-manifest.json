@@ -15,7 +15,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2026-03-15-113832.heic",
-      "lastModified": "2026-10-04T15:49:04.470Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1221128,
       "digest": "2fa8ac86f6db4eeb2e2bc71c13a3031c67187a7a14439b04b682ef10fa71ac14",
       "exif": {
@@ -148,7 +148,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2026-01-11-144520.png",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 9378080,
       "digest": "ec335df32bf598eeb2a43f3062e7602e82d73340f9cc0c8f074491d138151f19",
       "exif": {
@@ -183,7 +183,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2026-01-08-150600.png",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 5559557,
       "digest": "81225aeb9847e24d3b89ae14cd46ebb02cebd75cd0a461020c1c5b12cafa762b",
       "exif": {
@@ -219,7 +219,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-08-145350.heic",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1298588,
       "digest": "77db9ac2920add7da647528e0d08483ee6c5d36f703e5123a739ca2d69f46a79",
       "exif": {
@@ -295,7 +295,7 @@
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "2026-01-08-145318.heic",
-      "lastModified": "2026-10-04T15:49:04.470Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1197043,
       "digest": "6c51209d888e5b0e071ecaa6169a03cb989bf3d4f2237101c0b4649319f46870",
       "exif": {
@@ -371,7 +371,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-07-091803.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1786375,
       "digest": "68ec6afec5ca712c2c61513f32bd9b6adb8ae238743e42e476d7f31a0f97a11c",
       "exif": {
@@ -441,7 +441,7 @@
       "height": 4032,
       "aspectRatio": 0.7502480158730159,
       "s3Key": "2026-01-06-070533.jpg",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1411914,
       "digest": "8bed0883acf9612f822e4d1fcb70ca255b63430f5b186648cc45d1ca04f7084b",
       "exif": {
@@ -502,7 +502,7 @@
       "height": 4029,
       "aspectRatio": 0.7500620501365103,
       "s3Key": "2026-01-06-070255.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1721100,
       "digest": "62e2a73131c6339e5462689a8aff3d605bfac0a9615224874790270397e552a5",
       "exif": {
@@ -563,7 +563,7 @@
       "height": 4029,
       "aspectRatio": 0.7500620501365103,
       "s3Key": "2026-01-06-064050.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2273116,
       "digest": "6a6bac9937c40f1278e77cacebd4c3149ce9a499e52d4d481205acbe9f3b7616",
       "exif": {
@@ -624,7 +624,7 @@
       "height": 4030,
       "aspectRatio": 0.7498759305210918,
       "s3Key": "2026-01-06-064027.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1877045,
       "digest": "f955e4db551b7452c28401b9ade739a0d631d307839c85ba064a5530bd6c7a4c",
       "exif": {
@@ -685,7 +685,7 @@
       "height": 4030,
       "aspectRatio": 0.7501240694789082,
       "s3Key": "2026-01-06-063610.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1898651,
       "digest": "de3174481ad68ca26f12901c01f8a91d08db4da666cb8189bc19668dd3029192",
       "exif": {
@@ -746,7 +746,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-06-095432.heic",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1306695,
       "digest": "615ffb7b4fb41ba9a65d97fa55a572fab846ed1f03dae6b9de6eb3c30414c9cc",
       "exif": {
@@ -853,7 +853,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-06-084927.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2407486,
       "digest": "46c77af07e53fdc8fd41de1ffaac6f4a0e063edc008c865572e2b706c751d251",
       "exif": {
@@ -924,7 +924,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-06-082312.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3794364,
       "digest": "8acc5bf44a3d279a128437bbaeec985000099c7091454de43449823bf5ccbd3d",
       "exif": {
@@ -1000,7 +1000,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-06-071130.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1582474,
       "digest": "14ba496b747e92379a1a451edcbdb5274caec21df5c5d05e9cdffa10825fa6d4",
       "exif": {
@@ -1076,7 +1076,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-06-070445.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1106837,
       "digest": "c27b5ba4398e22dacf38a59867509e6248bf0c73ee953f346f56b5b6c233c462",
       "exif": {
@@ -1152,7 +1152,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2026-01-06-064715.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 4047289,
       "digest": "77ff8177cf477cb91251c34a60557046e686f306199a5d7323593fc6b9322162",
       "exif": {
@@ -1212,7 +1212,7 @@
       "height": 3088,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-06-064635.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1088032,
       "digest": "1a687b5fc88738d3066955c142d1732307d372ddf72914f41ea5696d636beadf",
       "exif": {
@@ -1350,7 +1350,7 @@
       "height": 2048,
       "aspectRatio": 0.75,
       "s3Key": "2026-01-06-142230.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 501841,
       "digest": "af4f50f5c7da03a47a339121bf93dde5586ed0bf7be1cdf031fcf5d4d8e0476c",
       "exif": {
@@ -1410,7 +1410,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-12-31-090412.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2038145,
       "digest": "a956169611d22b90bc78bf8b9fb48acf18503521db658893e8cd667f33124644",
       "exif": {
@@ -1471,7 +1471,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-12-31-090359.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2419884,
       "digest": "e29e10e1e7fccaac27dc644b24a142feb190c6fee508823ead5d8fc6c64ef8a0",
       "exif": {
@@ -1532,7 +1532,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-12-31-090332.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2849810,
       "digest": "44b0bae6ed6db23ba80904f31ea3da3c429818ac0abca89eb98db30c6a8843aa",
       "exif": {
@@ -1593,7 +1593,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-12-31-090306.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1925151,
       "digest": "82df4347b384bcd35bbc22c5f4b384b8f550a21d734c3e7f22251b345a79b2f7",
       "exif": {
@@ -1654,7 +1654,7 @@
       "height": 4029,
       "aspectRatio": 0.7500620501365103,
       "s3Key": "2025-12-31-090149.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1868834,
       "digest": "64bd459a94a6ae50494dfd882d4bd79e01ade0860e6ae4a114e3c5fb01efb7e7",
       "exif": {
@@ -1715,7 +1715,7 @@
       "height": 4029,
       "aspectRatio": 0.7500620501365103,
       "s3Key": "2025-12-31-090139.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1797296,
       "digest": "717601acb42d89750fa04acd1178de02087f850e4de42816eaf13c159604af67",
       "exif": {
@@ -1776,7 +1776,7 @@
       "height": 4033,
       "aspectRatio": 0.7500619885940987,
       "s3Key": "2025-12-31-085815.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2005650,
       "digest": "46a7c033e6661ec77cc14d7f0c61d0fb57c1dacf72e3594820d8b8e8e1039f49",
       "exif": {
@@ -1837,7 +1837,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-12-31-114607.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1024556,
       "digest": "8964999d91a54f93697c1b3a59d1650f90a0d7571af85698e32a4a8f4d280f1a",
       "exif": {
@@ -1913,7 +1913,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-12-31-105839.heic",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1390085,
       "digest": "f621e83545ff7f84d8e36c008b838525b0031b5dfb195058ce4a9d991bbe92e8",
       "exif": {
@@ -1989,7 +1989,7 @@
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "2025-12-31-085854.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1802016,
       "digest": "a84429fb06c27494b36b807b2e0808d432bc32c6e1be21b08e1ef6bcc58614e6",
       "exif": {
@@ -2127,7 +2127,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-12-31-073357.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2858141,
       "digest": "4042deb4b533922a81ba68e50909f8d0b5c8df471b3f8ab0e033904c3fe37335",
       "exif": {
@@ -2239,7 +2239,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-12-31-072610.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1473031,
       "digest": "8a364e84146fe91b26552617c9ec23ec5464060e6db02fca43036813bfa600e0",
       "exif": {
@@ -2315,7 +2315,7 @@
       "height": 5333,
       "aspectRatio": 0.7500468779298706,
       "s3Key": "2025-11-16-050009.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 5459923,
       "digest": "1a763162dc63631bb40f1c1a0e1d6da4711f994f6d62f9dd4c3a71beabac82f9",
       "exif": {
@@ -2356,7 +2356,7 @@
       "height": 4017,
       "aspectRatio": 0.7498132935026139,
       "s3Key": "2025-11-16-045630.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2150758,
       "digest": "1222f97e0a5c0df52af5b840e0a9610ddaed4e976d316800944fd1a0488ce21f",
       "exif": {
@@ -2397,7 +2397,7 @@
       "height": 5712,
       "aspectRatio": 0.75,
       "s3Key": "2025-11-16-044413.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 25196752,
       "digest": "36c441a35cef4d77e512b3f42fb4b42224d848234d018cb682aa8d25328b802f",
       "exif": {
@@ -2432,7 +2432,7 @@
       "height": 5712,
       "aspectRatio": 0.75,
       "s3Key": "2025-11-16-041436.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 18875271,
       "digest": "abcefe459ba3f70a06cbba45e546ab312a1719a783c5319d0b77db806237b79a",
       "exif": {
@@ -2467,7 +2467,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2025-11-15-125400.png",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3423800,
       "digest": "b36efd6da41de229794db9d07df7d480a2b80fa842ba69eb81944e8b90cafaa9",
       "exif": {
@@ -2503,7 +2503,7 @@
       "height": 2160,
       "aspectRatio": 1.7777777777777777,
       "s3Key": "2025-11-15-053503.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 7774208,
       "digest": "c88ef2d557cefffdf753dc512a484f53ad12d5e5f0dd3f8aff6f97cc97f68bd1",
       "exif": {
@@ -2563,7 +2563,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-055000.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 8251181,
       "digest": "245cb3fb2280a58e5a21bb52e643031838aeede0a722656feeee871b18f14e73",
       "exif": {
@@ -2631,7 +2631,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-054910.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 10686793,
       "digest": "8f2698cc2c8feab3b4b7a82f5d3684ee7eb18dcd8e72c064ae4cf6a9995e99d6",
       "exif": {
@@ -2699,7 +2699,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-033617.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 4520405,
       "digest": "8d98e86017d2e5b48ed348899d58476f838fe00f3c6173a14f6305d6c866affb",
       "exif": {
@@ -2764,7 +2764,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-033159.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 7170295,
       "digest": "bd55fa39147e6419c827a3a592d8d26d5df014258f9fdb3a2a20e7a0d0244b94",
       "exif": {
@@ -2829,7 +2829,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-032058.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 7072812,
       "digest": "42858589d75384390e834492f9ad025fc0c3e13f9a358a66d3c34cea6281d944",
       "exif": {
@@ -2897,7 +2897,7 @@
       "height": 6000,
       "aspectRatio": 0.6666666666666666,
       "s3Key": "2025-11-15-031921.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 7376144,
       "digest": "138ea7f4c574bc4bfc66bbc50052eb62102826b6a17e26b18e87024ca8a11b69",
       "exif": {
@@ -2965,7 +2965,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-025924.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 7442811,
       "digest": "bd61a241fc1abe223e78e4e4d3f2a9d3f4617a8a46f2c559a1dd79605e739f14",
       "exif": {
@@ -3033,7 +3033,7 @@
       "height": 6000,
       "aspectRatio": 0.6666666666666666,
       "s3Key": "2025-11-15-025853.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 7202599,
       "digest": "7db018f9bd15b5dcef652b5f7db5d86e8eacbad616efc7aab2f20830f61933b9",
       "exif": {
@@ -3101,7 +3101,7 @@
       "height": 5461,
       "aspectRatio": 0.7500457791613258,
       "s3Key": "2025-11-15-143922.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 24837331,
       "digest": "adc8ada4b8c784e003b4fe0ab7c0194e9238f4f88218c73af90ca87c0e504f65",
       "exif": {
@@ -3138,7 +3138,7 @@
       "height": 3808,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-130233.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 20988388,
       "digest": "9ca33bfbd4faab5f4aef0f9581a0b57543affa0cbf5cd0e3bd83d039fbf25396",
       "exif": {
@@ -3204,7 +3204,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-034000.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 19596680,
       "digest": "cc95dacd51ae726749eacb4c726232eaf0ee896791450da4c162c166e07b2dc8",
       "exif": {
@@ -3270,7 +3270,7 @@
       "height": 5347,
       "aspectRatio": 0.7499532448101739,
       "s3Key": "2025-11-15-134528.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 19356956,
       "digest": "550865551623c9ab961c64eb1fab3556897f490cee3e1f52a683ef3423384368",
       "exif": {
@@ -3305,7 +3305,7 @@
       "height": 5712,
       "aspectRatio": 0.75,
       "s3Key": "2025-11-15-143715.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 19183292,
       "digest": "e87270a5066b5d4ad2990ec48d22c9a11cd0e239a6b75564b24c3d1da7f4c613",
       "exif": {
@@ -3340,7 +3340,7 @@
       "height": 3808,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-025800.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 18775570,
       "digest": "a7adc492439542d8d7d7a94a5e181a3d0370c2ff7b4231173a3ce9e8cda1524a",
       "exif": {
@@ -3406,7 +3406,7 @@
       "height": 6840,
       "aspectRatio": 0.5992690058479532,
       "s3Key": "2025-11-15-125751.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 18140511,
       "digest": "9406e34641247fdc6ddf92c9c825572ec0b372e44fb62e91c9512050b4f8086e",
       "exif": {
@@ -3441,7 +3441,7 @@
       "height": 3808,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-033800.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 18130724,
       "digest": "36da8b34b8c6ad4fa07224f3a7cc46027560790e4b7da95bc63b0a9c933edaec",
       "exif": {
@@ -3506,7 +3506,7 @@
       "height": 5009,
       "aspectRatio": 0.750049910161709,
       "s3Key": "2025-11-15-143440.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 17979954,
       "digest": "72622152709e1851e6deea28ae451a202445c39c282999534841fa3d8a0bbfa9",
       "exif": {
@@ -3543,7 +3543,7 @@
       "height": 3808,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-033900.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 16482262,
       "digest": "d2727db34a3626a2e4b95532a34dce52682e160a4ed8837c59c3d06aecc234ad",
       "exif": {
@@ -3608,7 +3608,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "2025-11-15-130058.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 16307151,
       "digest": "b47bf83c2cf6f680d5f56dd05308bb9b69bc05309a1d93e47116de7a8bfe7a52",
       "exif": {
@@ -3674,7 +3674,7 @@
       "height": 2160,
       "aspectRatio": 1.7777777777777777,
       "s3Key": "2025-11-15-030500.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 7881153,
       "digest": "79da6ed5c769cfcc64df25e6c6cdb0535e904fdf9c65c84891040b705edf73b7",
       "exif": {
@@ -3732,7 +3732,7 @@
       "height": 3012,
       "aspectRatio": 0.75,
       "s3Key": "2025-11-15-103235.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1471082,
       "digest": "171fec30627537c7d86beded818c51a7ffcdbb671dd0959a11adaa9890ab74fb",
       "exif": {
@@ -3768,7 +3768,7 @@
       "height": 2053,
       "aspectRatio": 1.4997564539698003,
       "s3Key": "2025-11-15-104203.jpg",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1355498,
       "digest": "b9b49fb0e7e6cfa7c021ef685ea2a81197d2af18a46e39ab1a600d92d7d620bb",
       "exif": {
@@ -3804,7 +3804,7 @@
       "height": 2048,
       "aspectRatio": 0.75,
       "s3Key": "2025-11-01-085703.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 738034,
       "digest": "81fdf03b6dc79fb4dba32526d261d694abc0e47c6520af9870868720e1c64565",
       "exif": {
@@ -3939,7 +3939,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "20251027-104037.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 918017,
       "digest": "e02f196506742b049eb383dc99c1a44f30755ea361620171883618d5125c7a80",
       "exif": {
@@ -4010,7 +4010,7 @@
       "height": 1707,
       "aspectRatio": 0.7498535442296427,
       "s3Key": "2025-08-31-150330.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 183437,
       "digest": "d20966059dd85ddaa62f52c7d2e74e7f5fb50be3f5cc820fe0f513af5989ea77",
       "exif": {},
@@ -4040,7 +4040,7 @@
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "2025-07-11-004118.heic",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1304951,
       "digest": "775f8b918cdba2ecd1ce49c5fa06709e17e8a5697c04f79c50e49a7bec729643",
       "exif": {
@@ -4116,7 +4116,7 @@
       "height": 4096,
       "aspectRatio": 0.75,
       "s3Key": "2025-05-27-091210.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2226933,
       "digest": "2d2010a48852a74f0189d618651d8aad88402c47d522f6ff75d899537bfb8633",
       "exif": {
@@ -4183,7 +4183,7 @@
       "height": 4096,
       "aspectRatio": 0.75,
       "s3Key": "2025-05-27-091113.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 14519895,
       "digest": "9208133cb311d13af4997dc8952a8c898ef7064256dca75538e087ed22e7d3fb",
       "exif": {
@@ -4270,7 +4270,7 @@
       "height": 5712,
       "aspectRatio": 0.75,
       "s3Key": "2025-05-09-092624.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3217842,
       "digest": "5dc6d0678eadc1658762f87b9dc69485c3fa8e910771e1aa140b455563da5dbd",
       "exif": {
@@ -4377,7 +4377,7 @@
       "height": 5712,
       "aspectRatio": 0.75,
       "s3Key": "2025-04-04-113734.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3002766,
       "digest": "92412fb75721e14b0bbd40b8e8b07ac286b2c102597d0b8429e70981d994724c",
       "exif": {
@@ -4453,7 +4453,7 @@
       "height": 5712,
       "aspectRatio": 0.75,
       "s3Key": "2025-03-03-091643.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2071266,
       "digest": "89c09200ad766dfeb0aec649e1b64db83070c45d31f270ac47d05c9ad2b4e306",
       "exif": {
@@ -4529,7 +4529,7 @@
       "height": 5712,
       "aspectRatio": 0.75,
       "s3Key": "2025-03-02-050159.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2666500,
       "digest": "99fadc1345a583dba01954082461da3ae2c4c52de7d0f1043835a391f8849391",
       "exif": {
@@ -4636,7 +4636,7 @@
       "height": 5712,
       "aspectRatio": 0.75,
       "s3Key": "2025-02-20-090433.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2852698,
       "digest": "547d5c4c1384619a3575a4611aa6f8d0fe1691a8e23ea9c2facafaad39faa348",
       "exif": {
@@ -4712,7 +4712,7 @@
       "height": 4284,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "2025-01-07-022121.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2659619,
       "digest": "61213ce30ec589965b9425cc196122830fa7cc8e9843b21b551fef1186a3ed21",
       "exif": {
@@ -4788,7 +4788,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2025-01-04-063348.jpg",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2301042,
       "digest": "7b7b354344209346e37c9840131160a287e3d2d454927c0d0308ea166083961c",
       "exif": {
@@ -4849,7 +4849,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-12-12-121714.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2060436,
       "digest": "0d67194a584f5d1335b092a9ee0d32bf1acc65d1d05ed3028a3fcc9fa182961d",
       "exif": {
@@ -4925,7 +4925,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-12-12-101424.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1169612,
       "digest": "4b3501e3c77ff1f2a5131de097c1bac715f9d94aa0a6ae57c7b64a04bd295e8c",
       "exif": {
@@ -5001,7 +5001,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-12-07-110319.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1133940,
       "digest": "8b2405932fc4b12ff948f0004590ebb27fbcc864ef6b217d35ea21f70b3f688d",
       "exif": {
@@ -5077,7 +5077,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-12-04-125508.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2117163,
       "digest": "0dcd44549323b8a21558579a3141634f88d75a3a22686149c629d3a8707615d8",
       "exif": {
@@ -5153,7 +5153,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-30-083749.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1717828,
       "digest": "baaf9c423cd710473a35772915f3d4de37bc2d2481ef9f0f0d2dfd36bf37a0f2",
       "exif": {
@@ -5265,7 +5265,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-15-150833.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2663958,
       "digest": "a5201fb80104bc724d159bb50266cb59826532bf56cd0da50473bad0d629f1f3",
       "exif": {
@@ -5341,7 +5341,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-15-110358.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1977232,
       "digest": "03569d53c1db6d9617f008810e83deca6fdc4497fa7f3c3b36f9f48e905d39eb",
       "exif": {
@@ -5453,7 +5453,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-14-061023.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1907662,
       "digest": "1b074a534e59ba87d1e17c482686bbae2c56be9aced45f7ed4666cb88f543522",
       "exif": {
@@ -5529,7 +5529,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-10-073441.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3234701,
       "digest": "542e66ae01c3b339edcfdb40eef5975867ef8a20eb5e15136796cb160ed94cd7",
       "exif": {
@@ -5605,7 +5605,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-10-073351.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2185917,
       "digest": "fede6f25c0ff29852d42483f44d99018e2c650c3fc4c3cda188f6dff8dabe392",
       "exif": {
@@ -5717,7 +5717,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-10-073211.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 4066329,
       "digest": "843270b36f2ec1e273b55873a176e8524bf962970be2b16185b8dd8d522c48f3",
       "exif": {
@@ -5793,7 +5793,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-10-060510.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1783153,
       "digest": "2179b5a10f9c9f042dc2c3660522c0b4d5a8c6a697b37075bb1c769ef403d6a9",
       "exif": {
@@ -5869,7 +5869,7 @@
       "height": 2160,
       "aspectRatio": 1.7777777777777777,
       "s3Key": "2024-11-10-091100.jpg",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1427496,
       "digest": "fe75de4f8bbd46cd135a1cddd68b5879da12c7e940c11b739c9ab2c820a9aef7",
       "exif": {
@@ -5902,7 +5902,7 @@
       "height": 1920,
       "aspectRatio": 0.5619791666666667,
       "s3Key": "2024-11-10-093510.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 471989,
       "digest": "4a2c07e6273136fd3f44063c92a3adbdb5ab1dd5e0252f33ca970596afd0d262",
       "exif": {},
@@ -5937,7 +5937,7 @@
       "height": 1920,
       "aspectRatio": 0.5619791666666667,
       "s3Key": "2024-11-10-093349.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 424066,
       "digest": "4ffa6a2ebf8f768a9e5f4ad724a6bb33b2b2785303301300d1be322a7ee5c18c",
       "exif": {},
@@ -5972,7 +5972,7 @@
       "height": 1920,
       "aspectRatio": 0.5619791666666667,
       "s3Key": "2024-11-10-093722.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 411840,
       "digest": "cbd5a01d97c63a1075ed868a40c8de3d9e6375172f6f9c36a31df8e8b04ae49f",
       "exif": {},
@@ -6007,7 +6007,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-08-141227.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1483514,
       "digest": "264e2d76a332043f58a4d72391a5a1a5789a6a367d651ae8acc0eebfe7ee4300",
       "exif": {
@@ -6083,7 +6083,7 @@
       "height": 2160,
       "aspectRatio": 1.7777777777777777,
       "s3Key": "2024-11-08-143252.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 477873,
       "digest": "18e352b11bf9ccce942d9083b43c619c36427fcbe1afd85c13ad758f7bcab95f",
       "exif": {},
@@ -6118,7 +6118,7 @@
       "height": 2160,
       "aspectRatio": 1.7777777777777777,
       "s3Key": "2024-11-08-143658.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 340137,
       "digest": "eda30f5749e65af0e7e3ac36f3b288a837a0846ada7da7d9183e388635f32367",
       "exif": {},
@@ -6153,7 +6153,7 @@
       "height": 2160,
       "aspectRatio": 1.7777777777777777,
       "s3Key": "2024-11-08-143553.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 309804,
       "digest": "361b525e801154e691c7ab7c47938c18c85cb4624b91afc78f723763868850e8",
       "exif": {},
@@ -6188,7 +6188,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-06-103854.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2870124,
       "digest": "178fa8f2f25b25979e0efd22222d20e94c530f2d4f908042703e3d82e57f422c",
       "exif": {
@@ -6259,7 +6259,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-05-072832.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2023277,
       "digest": "79ac7aaf4c167fadc8141be43bda064e5e46cf7d523ae63f4f7ee908d5a61a5b",
       "exif": {
@@ -6335,7 +6335,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-05-072825.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1515770,
       "digest": "ef188689ab6d7b1c5f996bc88d2f334230694961b0c9aef00a13fd9ae089636b",
       "exif": {
@@ -6411,7 +6411,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-03-104314.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1115285,
       "digest": "4f6d2f267b4ea39ad4271cc181ca6e7c4cce6d5e5000e2a53f036e1a75b5ecc4",
       "exif": {
@@ -6487,7 +6487,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-03-085508.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2167385,
       "digest": "c99ae657694d0d05047a4531d304707a27cbf90dec5a4cb3d217ca8e62ef5763",
       "exif": {
@@ -6563,7 +6563,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-03-084416.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1828702,
       "digest": "3850faf5d432cdf6993e18e5cd9b02da2b05e950db9cc0fc972e061b4dee711b",
       "exif": {
@@ -6639,7 +6639,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-03-081312.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3075619,
       "digest": "c8e0256c01319695a2ae25620b44c6f5028e1008c66db625ffe7dbb444e56c5c",
       "exif": {
@@ -6715,7 +6715,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-02-110707.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1542317,
       "digest": "e7d0a6c4466ee50400d396f5dfc7e30116788f80164bca29a6a715926c00471f",
       "exif": {
@@ -6791,7 +6791,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-11-02-081214.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2821615,
       "digest": "67e8877ee16adfde4737145f3d7fb1975085bed0770a0d40632aa6cd38efc3ca",
       "exif": {
@@ -6867,7 +6867,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-10-31-135514.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1195528,
       "digest": "665103229c3d7387b6c36f9b18379bf0e6563db6638c95493dbcbcbcd65eaa7f",
       "exif": {
@@ -6943,7 +6943,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-10-30-072236.heic",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1316304,
       "digest": "62c4ab4f483fc05a53ad11b0cc1eab9c34cb49086dee55423500ed3e67f672d5",
       "exif": {
@@ -7019,7 +7019,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-10-29-140524.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1133867,
       "digest": "c3abd12b2bb5a279860ff618dee971b158c3bc04e1f059672736697f27628cdc",
       "exif": {
@@ -7095,7 +7095,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-10-27-093751.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1450031,
       "digest": "de5da39279574b487d275e07e461605d92d3a68e6a480f73974e38de74ed11ea",
       "exif": {
@@ -7171,7 +7171,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-10-27-081352.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2385775,
       "digest": "489e779ed2b7a8305539426947fcf8ccdd82e51cb995244655a233adb608ddab",
       "exif": {
@@ -7247,7 +7247,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-10-27-075631.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2812933,
       "digest": "cdd7d8c664e9e85efe3b892e35e20c698b6815c5be799061be96ba99e6378859",
       "exif": {
@@ -7323,7 +7323,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-10-25-095927.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1938452,
       "digest": "a755075bd66ba53728ee133141a0db5697ed1aaa044cd394a47e11b932a18d78",
       "exif": {
@@ -7435,7 +7435,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-10-18-095611.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1883003,
       "digest": "2eca06967874c5e52cd3f5f0e68935ba8b014558319d5d0f0e4690e1a6cb3147",
       "exif": {
@@ -7511,7 +7511,7 @@
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "2024-09-29-063228.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 681232,
       "digest": "4507c07b2a846ff6eca3abde9c97597c008ff3935fcca3ed888c54d2b95bb702",
       "exif": {
@@ -7581,7 +7581,7 @@
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "2024-09-29-063200.heic",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1325056,
       "digest": "65da1f2ea59e9caaa1c87993c5aafa960309a24e1d016ac306c16a9d4a180034",
       "exif": {
@@ -7651,7 +7651,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-19-112710.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1034501,
       "digest": "ae12bf797e42f82f3a0799cb7a07669d939737e174bb0a2f2b3135741949513b",
       "exif": {
@@ -7727,7 +7727,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-19-090442.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2382464,
       "digest": "b2ba279dbcc875cc60844cf63aedba7bc3367333fbd39aa330644e18961b71d5",
       "exif": {
@@ -7803,7 +7803,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-16-051907.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2008346,
       "digest": "6599a3658029da3be4087962efd472b11c3b716cbb02cefbe912ed335f760c87",
       "exif": {
@@ -7879,7 +7879,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-15-123815.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1485438,
       "digest": "d596d52840ef131f3f66a4454f6524290b8355581b77255f36b769a35533b476",
       "exif": {
@@ -7955,7 +7955,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-15-092218.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1671423,
       "digest": "c2c76e9a3ba611fedfb3c79f51855645ccb8ebcf7000d95679c219b7cd8a3e39",
       "exif": {
@@ -8031,7 +8031,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-07-104942.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2324177,
       "digest": "8c54de0c96be07be6ef2441927a941353b13df234066c35071ab4ed6947c5b78",
       "exif": {
@@ -8143,7 +8143,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-07-030708.heic",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1019643,
       "digest": "c213a9d8fb229e0b24303447981321b32e29cdd7fd0ebb392de4242e5700d703",
       "exif": {
@@ -8219,7 +8219,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-06-091012.heic",
-      "lastModified": "2026-10-04T16:13:24.836Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1416364,
       "digest": "464d1c12b5ea3f79c3f8e91f72fffa2b5b2cb1f0ebe1f19a63a8683c4f3c2ca3",
       "exif": {
@@ -8295,7 +8295,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-09-05-145213.heic",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1770079,
       "digest": "7be7bd0c9e9668a2528acdf3d2955d75182ec5fbcff42d1a8d17a1e6508f4d15",
       "exif": {
@@ -8371,7 +8371,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-08-17-085245.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2423862,
       "digest": "09dcd60ada0fee4374c86d45cb9127eaae0cdb3bd2bafac0d4b8ae806b929ee4",
       "exif": {
@@ -8447,7 +8447,7 @@
       "height": 2000,
       "aspectRatio": 1,
       "s3Key": "2024-08-17-082413.heic",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 155119,
       "digest": "aefbc4de1e1167734ed44316451ad9a9071db3d0789a4d85c86cc3bda8988b6c",
       "exif": {},
@@ -8477,7 +8477,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2024-06-07-162448.png",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2999277,
       "digest": "a2fa3a3ca56913250c4f8ef6b722fffb1459a051fef30f7adadbcdbaa8b31b6f",
       "exif": {
@@ -8513,7 +8513,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-06-05-070754.heic",
-      "lastModified": "2026-10-04T16:10:06.255Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1271281,
       "digest": "93ad7f10158a80a6308abc0df74cafed8cf8e67b52075065c0eaa8e5a71e232b",
       "exif": {
@@ -8625,7 +8625,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2024-05-04-134346.png",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1582444,
       "digest": "418a5d6d28c9737f58b77fa5345f3e27547d9ec3c34b694576428dd7e4aaf3d8",
       "exif": {
@@ -8661,7 +8661,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2024-05-02-112158.png",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3658221,
       "digest": "48b9d4bcd94417b8f39dd4779558deb9640371c40f3ccda25e1ef42c467f10f4",
       "exif": {
@@ -8697,7 +8697,7 @@
       "height": 1284,
       "aspectRatio": 2.163551401869159,
       "s3Key": "2024-04-14-145133.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 444581,
       "digest": "14987a989e0e657ad2917ff7d6703f508c8079be582f201333bce61f22fd5fff",
       "exif": {
@@ -8733,7 +8733,7 @@
       "height": 1284,
       "aspectRatio": 2.163551401869159,
       "s3Key": "2024-04-07-095043.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 838619,
       "digest": "f733e44f01d3a0ec32a949936ccf832d4c7918fa93a7da5aa9578ea19101d4d2",
       "exif": {
@@ -8769,7 +8769,7 @@
       "height": 1284,
       "aspectRatio": 2.163551401869159,
       "s3Key": "2024-04-07-084108.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 405787,
       "digest": "bfc0305a7a74eb12dc87bbc6de9c0ec77fabb2ebf62cb2c4f791c27abf65315f",
       "exif": {
@@ -8805,7 +8805,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2024-04-04-153202.png",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3454313,
       "digest": "58eff84e01f0e8d86dd480c7b41dbf0c83a78dd054163ae156c7e793c71c6014",
       "exif": {
@@ -8841,7 +8841,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2024-04-03-162328.png",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 2673265,
       "digest": "c3539cd3e416b799ee008ec46af903114d7e1494b59a6f9e29c4faf04d659343",
       "exif": {
@@ -8877,7 +8877,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "2024-03-29-010941.heic",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3293351,
       "digest": "e294cd48f886ebf42ee2ac7ca8b5b8cefb5ac6589204bd7934dddd44ac23446f",
       "exif": {
@@ -8953,7 +8953,7 @@
       "height": 2778,
       "aspectRatio": 0.46220302375809935,
       "s3Key": "2024-03-13-131406.png",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1946247,
       "digest": "05130c95ef8aa2af3efb9a4947a928c50110a6d0b02e3a072ba6c14fb6fe4409",
       "exif": {
@@ -8989,7 +8989,7 @@
       "height": 3200,
       "aspectRatio": 0.45,
       "s3Key": "2023-11-10-163708.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 212258,
       "digest": "a056fe4545402b8982f85ed5b7a9348f80f335de07f153f3c252aa30ccf78d12",
       "exif": {
@@ -9027,7 +9027,7 @@
       "height": 3200,
       "aspectRatio": 0.45,
       "s3Key": "2023-05-05-113135.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 98138,
       "digest": "6be45a5a0517a413125e4092e5f541f9514d26ed0fde82dc65ae05e9b929d5ff",
       "exif": {
@@ -9065,7 +9065,7 @@
       "height": 1668,
       "aspectRatio": 1.4316546762589928,
       "s3Key": "2023-02-16-144319.png",
-      "lastModified": "2026-10-04T16:39:45.119Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 3566120,
       "digest": "ea413008785f87d45efa273a9766c13ff02e3b51e80093052415756f8b721518",
       "exif": {
@@ -9100,7 +9100,7 @@
       "height": 4000,
       "aspectRatio": 0.75,
       "s3Key": "2022-10-20-035400.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1449256,
       "digest": "ec6d1687aa90fef46abbb075009519a88111b9c646849e68a03240a3f158947d",
       "exif": {
@@ -9163,7 +9163,7 @@
       "height": 4000,
       "aspectRatio": 0.75,
       "s3Key": "2022-10-20-035337.jpg",
-      "lastModified": "2026-10-04T16:37:36.482Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1995087,
       "digest": "2257c71b248eecc762ae13feab28845276630dc0bd7d8c077d89b34e9eb637aa",
       "exif": {
@@ -9226,7 +9226,7 @@
       "height": 3000,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "2022-10-13-110132.jpg",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 982914,
       "digest": "37a7cb8424f06a1520ad57c6d55e4ed68d5d4094bfa58164bbe73e8b3fc88738",
       "exif": {
@@ -9288,7 +9288,7 @@
       "height": 3000,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "2022-10-11-104400.jpg",
-      "lastModified": "2026-10-04T15:38:10.164Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 922504,
       "digest": "5ce5f450ed441d0bae1f9f2fca398bc023fbfa2f47a7776d8e4cc81787e6ad78",
       "exif": {
@@ -9350,7 +9350,7 @@
       "height": 4000,
       "aspectRatio": 0.75,
       "s3Key": "2022-10-11-103650.jpg",
-      "lastModified": "2026-10-04T15:14:37.763Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 625472,
       "digest": "0a778b1b79731ac29b7b24ccdddecad3637baacd438c60f429472359ffffa60f",
       "exif": {
@@ -9412,7 +9412,7 @@
       "height": 4000,
       "aspectRatio": 0.75,
       "s3Key": "2022-10-10-123651.jpg",
-      "lastModified": "2026-10-04T16:10:06.255Z",
+      "lastModified": "2026-10-05T00:54:42.199Z",
       "size": 1277149,
       "digest": "c6c6239c748912931cf2ba61cd4741ef156eb2208731e257a924817b3c54bac7",
       "exif": {

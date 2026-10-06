@@ -10,7 +10,35 @@ permissions:
   contents: write
 
 jobs:
-  redeploy-vercel:
+  build-manifest:
+    # 照片变更：在 Actions 上跑重型 manifest 构建（HEIC 解码，7GB 内存），
+    # 产物（photos-manifest.json + thumbnails/）由同步插件自动推回本仓；
+    # Vercel 侧只做轻量构建（拉现成 manifest），彻底绕开 Hobby 构建 OOM。
+    if: ${{ github.event.head_commit == null || !startsWith(github.event.head_commit.message, 'chore: update photos-manifest') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: 检出画廊构建器
+        uses: actions/checkout@v4
+        with:
+          repository: poboll/afilmory
+          fetch-depth: 1
+      - name: 安装 pnpm
+        uses: pnpm/action-setup@v4
+      - name: 安装 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - name: 安装依赖
+        run: pnpm install --frozen-lockfile
+      - name: 构建 manifest（缩略图生成 + jsDelivr 重写 + 推回照片仓）
+        env:
+          GIT_TOKEN: ${{ secrets.REBUILD_PAT }}
+        run: pnpm -w run build:manifest
+
+  trigger-vercel:
+    needs: build-manifest
     runs-on: ubuntu-latest
     steps:
       - name: 触发画廊重新构建（给 Vercel 关联仓推空提交）

@@ -14,7 +14,7 @@ jobs:
     # 照片变更：在 Actions 上跑重型 manifest 构建（HEIC 解码，7GB 内存），
     # 产物（photos-manifest.json + thumbnails/）由同步插件自动推回本仓；
     # Vercel 侧只做轻量构建（拉现成 manifest），彻底绕开 Hobby 构建 OOM。
-    if: ${{ github.event.head_commit == null || !startsWith(github.event.head_commit.message, 'chore: update photos-manifest') }}
+    if: "${{ github.event.head_commit == null || !startsWith(github.event.head_commit.message, 'chore: update photos-manifest') }}"
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
